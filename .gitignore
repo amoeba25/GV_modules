@@ -2,3 +2,6 @@
 #virtualenv
 gv_env
 
+#environment variable file
+core/.env
+
